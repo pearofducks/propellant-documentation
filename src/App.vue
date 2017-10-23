@@ -2,7 +2,7 @@
   <div id="app">
     <DemoHeader></DemoHeader>
     <main>
-      <prop-doc :component="c" :documentation="docs[key]" :key="index" v-for="(c, key, index) in components" v-if="c.name"></prop-doc>
+      <prop-doc :component="c" :documentation="docs[key]" :key="index" v-for="(c, key, index) in components" v-if="c.name"/>
     </main>
   </div>
 </template>
@@ -23,7 +23,6 @@ export default {
 </script>
 
 <style lang="scss">
-@import "~prpllnt/propellant";
 @import "~prpllnt/scss/demo";
 
 body, html {

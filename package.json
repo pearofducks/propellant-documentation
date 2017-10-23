@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "propdoc": "^0.9.0",
-    "prpllnt": "^0.7.26",
+    "prpllnt": "^0.7.28",
     "vue": "^2.4.4"
   },
   "devDependencies": {
