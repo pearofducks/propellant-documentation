@@ -1,6 +1,6 @@
-# v-docs
+> propellant documentation
 
-> propellant docs
+This uses [propDoc](https://github.com/propellant/doctor) to automatically provide documentation for the [propellant components](https://github.com/pearofducks/propellant).
 
 ## Build Setup
 
